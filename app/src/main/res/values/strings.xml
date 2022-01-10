@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FinTAX</string>
+    <string name="heading">TAX CALCULATOR</string>
+    <string name="basic">BASIC SALARY PER YEAR(INR)</string>
+    <string name="hra">HRA PER YEAR (INR)</string>
+    <string name="Taxallowance">TAXABLE ALLOWANCES PER YEAR (INR)</string>
+    <string name="Nontaxallowance">NON TAXABLE ALLOWANCE PER YEAR (INR)</string>
+    <string name="CLICK">CALCULATE</string>
+    <string name="summary">This App allow you to calculate in new as well as old tax regimes.</string>
+    <string name="heading2">CALCULATED TAXES</string>
+    <string name="old">According to the old regime for tax deduction</string>
+    <string name="newr">According to the new regime for tax deduction</string>
+    
+</resources>
